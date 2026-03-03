@@ -1,132 +1,124 @@
-<h1 align="center">Hi 👋, I'm Amol Kadam</h1>
-<h3 align="center">🧠 AI Engineer | Machine Learning Developer | GenAI Builder</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Amol+Kadam;AI+Engineer+%7C+ML+Developer+%7C+GenAI+Builder;Building+Deployable+AI+Systems" />
+</p>
+
+<h3 align="center">🧠 Turning Data into Intelligent Systems</h3>
 
 <p align="center">
-  🎓 B.Tech (Robotics & AI), COEP Technological University  
-  <br>
-  📊 CGPA: 8.75  
+  🎓 B.Tech (Robotics & AI), COEP Technological University <br>
+  📊 CGPA: 8.75
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am an AI-focused engineering student deeply engaged in building **end-to-end Machine Learning systems** — from data pipelines to deployment.
+I build **end-to-end AI systems** — from raw data pipelines to deployed production APIs.
 
-My work revolves around:
-
+💡 I focus on:
 - 📊 Data Science & Analytics  
 - 🤖 Machine Learning & Deep Learning  
 - 🧠 Generative AI (LangChain, LangGraph)  
-- ⚡ FastAPI Model Deployment  
+- ⚡ FastAPI Deployment  
 - 🔁 MLOps (DVC, CI/CD)  
 
-I enjoy transforming raw data into intelligent, deployable systems that create measurable impact.
-
-> “I don’t just train models. I build AI systems.”
+> I don’t just train models — I engineer AI solutions.
 
 ---
 
-## 🧠 Technical Expertise
+# 🛠 Tech Stack
 
-### 👨‍💻 Programming
-`Python` | `SQL`
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data & ML
-- Machine Learning
-- Deep Neural Networks
-- Data Analytics
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Optimization
-
-### 🔥 Deep Learning
-- TensorFlow / Keras
-- Neural Network Training
-- Hyperparameter Tuning
+### 📊 Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🚀 Deployment & MLOps
-- FastAPI
-- ETL Pipelines (Pandas)
-- DVC
-- CI/CD Pipelines
-- Git & GitHub
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🧠 Generative AI
-- LangChain
-- LangGraph
-- AI Agent Workflows
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge)
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🔹 Data Science Intern – CODTECH
+## 🔹 Data Science Intern – CODTECH
+✔ Built automated ETL pipelines  
+✔ Trained & optimized Deep Learning models  
+✔ Deployed ML APIs using FastAPI  
+✔ Generated business insights via EDA  
 
-Worked on complete ML lifecycle projects:
-
-- Built ETL pipelines for automated data processing
-- Trained Deep Learning classification models
-- Tuned hyperparameters for performance improvement
-- Deployed ML models using FastAPI APIs
-- Used EDA insights to improve business KPIs
-
-**Tech Used:** Python, Pandas, NumPy, TensorFlow, scikit-learn, FastAPI, Git
+**Stack:** Python | TensorFlow | FastAPI | Pandas | Git
 
 ---
 
-### 🔹 Research Intern – IIT Kharagpur
-
-- Built Diabetes Prediction ML Model
-- Developed a Virtual ATM system
-- Focused on data preprocessing, model training, and implementation
-
----
-
-## 🚀 Featured Project
-
-### 🧠 Diabetes Predictor App
-
-An end-to-end ML system:
-
-- Data preprocessing pipeline
-- Model training using scikit-learn
-- FastAPI deployment
-- User input interface
-- Result storage system
-
-🔗 GitHub: [ADD_REPO_LINK]
+## 🔹 Research Intern – IIT Kharagpur
+✔ Diabetes Prediction ML Model  
+✔ Virtual ATM System  
+✔ Model training & preprocessing pipelines  
 
 ---
 
-## 📈 Current Focus (2026)
+# 🚀 Featured Project
 
-- Advanced Deep Learning Architectures
-- Generative AI & LLM Systems
-- Production-Level AI Deployment
-- Building Scalable AI Agent Systems
-- Internship in AI / ML / GenAI
+## 🧠 Diabetes Predictor App
+
+An end-to-end ML application:
+
+- Data preprocessing pipeline  
+- Model training (scikit-learn)  
+- FastAPI deployment  
+- User interface integration  
+- Result storage system  
+
+🔗 Add your repo link here
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🐍 Contribution Graph Snake
 
-📧 kadamas23.rai@coeptech.ac.in  
-📱 8766773760  
-🔗 LinkedIn: [ADD_LINK]  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⚡ Fun Fact: I prefer building deployable AI systems over just training models.
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready AI systems  
+- 🧠 Master LLM-based applications  
+- 🔁 Become strong in MLOps  
+- 🌍 Secure AI/ML Internship  
+
+---
+
+# 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amol%20Kadam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amol-kadam-42b9bb3a8/)
+![Email](https://img.shields.io/badge/Email-kadamas23.rai@coeptech.ac.in-red?style=for-the-badge&logo=gmail)
+
+---
+
+⚡ Fun Fact: I prefer deploying AI models over just training them.
