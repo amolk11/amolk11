@@ -22,7 +22,7 @@ My work centers around:
 - Deep Learning model optimization  
 - FastAPI deployment  
 - ETL automation pipelines  
-- MLOps practices (DVC, CI/CD)  
+- MLOps practices (DVC, CI/CD, MLflow)  
 - Generative AI (LangChain, LangGraph)  
 
 > Building AI solutions that convert data into real-world impact.
@@ -68,10 +68,6 @@ My work centers around:
 | Repository | Description |
 |------------|------------|
 | Diabetes Predictor | End-to-end ML system with FastAPI deployment |
-| (Add real repo name) | Data Science Internship Projects |
-| (Add real repo name) | Research-based ML implementation |
-
-*(Replace with actual repository names only — no dummy entries)*
 
 ---
 
