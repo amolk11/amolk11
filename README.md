@@ -14,7 +14,7 @@ Building intelligent AI systems from data pipelines to deployment.
 
 # 🧠 About Me
 
-I am an AI-focused engineering student at **COEP Technological University (CGPA: 8.75)**.
+I am an AI-focused engineering student at **COEP Technological University (CGPA: 8.82)**.
 
 My work centers around:
 
