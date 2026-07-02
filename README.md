@@ -56,7 +56,7 @@ My work centers around:
 
 | Category | Link |
 |-----------|------|
-| Featured Project | Diabetes Predictor App |
+| Featured Project | CommerceAI Platform|
 | Internship Work | Data Science Projects – CODTECH |
 | Research Work | IIT Kharagpur ML Research |
 | Professional Focus | AI Deployment & MLOps |
