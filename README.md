@@ -1,221 +1,88 @@
-<h1 align="center">Hi 👋, I'm Amol Kadam</h1>
-
-<h3 align="center">
-AI Engineer • Machine Learning • Data Engineering • MLOps • Generative AI
-</h3>
+<h1 align="center">Amol Kadam</h1>
+<h3 align="center">AI Engineer | Machine Learning & Backend Systems | GenAI</h3>
 
 <p align="center">
-Building production-ready AI systems from data engineering to intelligent deployment.
+I build production AI systems — from data pipelines to deployed microservices — not just notebooks.
 </p>
 
 <p align="center">
-<a href="https://github.com/amolk11">GitHub</a> •
 <a href="https://www.linkedin.com/in/amol-kadam-42b9bb3a8/">LinkedIn</a> •
-<a href="mailto:kadamas23.rai@coeptech.ac.in">Email</a>
+<a href="mailto:kadamas23.rai@coeptech.ac.in">Email</a> •
+<a href="https://github.com/amolk11">GitHub</a> •
+<a href="tel:+918766773760">+91-8766773760</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## Summary
 
-I'm a **B.Tech Robotics & Artificial Intelligence** student at **COEP Technological University** (CGPA **8.82**).
+B.Tech Robotics & AI student at COEP Technological University (CGPA 8.82, expected 2027). Two ML/software internships, a published and internationally presented research paper, and a personal platform (CommerceAI) processing 3M+ transactions through production-style FastAPI microservices. Comfortable across the stack: data engineering, model training, API deployment, and monitoring.
 
-I enjoy building **end-to-end AI systems** that transform raw data into intelligent products.
-
-My interests include
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🚀 FastAPI & AI Microservices
-- 📊 Data Engineering & Analytics
-- ⚙️ MLOps & Model Deployment
-- 🔗 Generative AI (LangChain & LangGraph)
-- ☁️ Cloud Deployment
-- 🤖 Robotics & Autonomous Systems
-
-Currently, I'm developing **CommerceAI**, a modular AI platform that combines recommendation systems, customer intelligence, product intelligence, and AI copilots into a unified production-ready ecosystem.
+**Currently looking for:** ML Engineer / AI Engineer / Backend (Python) internships or new-grad roles.
 
 ---
 
-# 🚀 Featured Projects
+## Experience
 
-## 🛒 CommerceAI — AI-Powered Commerce Intelligence Platform
+**Data Science Intern** — CODTECH IT Solutions | May 2025 – Jul 2025
+Built ETL pipelines in Python/Pandas, trained deep learning and classical ML models (TensorFlow, Scikit-Learn), and deployed inference via FastAPI REST APIs.
 
-**Tech Stack**
-
-Python • FastAPI • PostgreSQL • Redis • Docker • AWS • LangGraph
-
-### Highlights
-
-- Built a modular AI platform for commerce intelligence
-- Developed scalable FastAPI microservices
-- Engineered reusable ETL and feature engineering pipelines
-- Processed over **3M+ e-commerce transactions**
-- Implemented Redis caching and authentication
-- Built monitoring dashboards using Prometheus & Grafana
-- Developed LangGraph-powered AI Copilots
+**Machine Learning Intern** — IIT Kharagpur | May 2024 – Jun 2024
+Built and validated supervised learning applications (diabetes prediction, virtual ATM simulation) end-to-end, from preprocessing through evaluation.
 
 ---
 
-## 🤖 Customer-Aware Autonomous Mobile Robot
+## Featured Projects
 
-**Tech Stack**
+### CommerceAI — Commerce Intelligence Platform *(2026 – Present)*
+`Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `AWS` `LangGraph`
+- Architected a modular platform (Recommendation, Product Intelligence, Customer Intelligence, GenAI Copilot services)
+- Built pipelines processing **3M+ e-commerce transactions**, with Redis caching and Prometheus/Grafana observability
+- Built LangGraph AI agents for recommendation explanations and natural-language analytics
 
-ROS2 • Computer Vision • Visual SLAM • Edge AI
+### Customer-Aware Autonomous Mobile Robot *(2025 – Present)*
+`ROS2` `Computer Vision` `Visual SLAM` `Edge AI`
+- Developing an AMR for smart-shelf monitoring and automated restocking using Visual SLAM and human-aware navigation
+- **Research presented at RAM 2026 International Conference, Bangkok, Thailand**
 
-- Smart retail autonomous robot
-- Human-aware navigation
-- Shelf monitoring
-- Automated restocking
-- Presented at **RAM 2026 International Conference**
-
----
-
-## 🚖 Driver Acceptance Prediction Service
-
-**Tech Stack**
-
-Python • FastAPI • Scikit-Learn • Docker
-
-- End-to-end machine learning pipeline
-- Feature engineering
-- Model deployment
-- REST API inference
-- Dockerized microservice
+### Driver Acceptance Prediction Service *(2025)*
+`Python` `FastAPI` `Scikit-Learn` `Pandas` `Docker`
+- End-to-end ML microservice predicting ride-acceptance probability from trip/driver/location data
+- Dockerized, with real-time FastAPI inference endpoints for production ride-allocation workflows
 
 ---
 
-# 💻 Technical Skills
+## Publications
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-orange?style=flat-square)
+**"Customer-Aware Robots for Smart Supermarket Restocking"**
+International Conference on Robotics, Automation and Manufacturing (RAM 2026), Bangkok, Thailand — Feb 2026
 
 ---
 
-## Machine Learning
+## Technical Skills
 
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Deep Learning
-- NLP
-- Feature Engineering
-- Model Evaluation
-
----
-
-## Backend Development
-
-- FastAPI
-- REST APIs
-- SQLAlchemy
-- Microservices
+| Area | Skills |
+|---|---|
+| Languages | Python, SQL, MATLAB |
+| Backend | FastAPI, REST APIs, SQLAlchemy, Microservices |
+| Machine Learning | Scikit-Learn, TensorFlow, PyTorch, NLP, Feature Engineering |
+| Data Engineering | PostgreSQL, ETL Pipelines, Pandas, Data Warehousing |
+| MLOps | Docker, MLflow, DVC, GitHub Actions, Redis, Prometheus, Grafana, Pytest |
+| Generative AI | LangChain, LangGraph, RAG, AI Agents |
+| Cloud | AWS |
 
 ---
 
-## Data Engineering
+## Education
 
-- PostgreSQL
-- ETL Pipelines
-- Data Warehousing
-- Analytics Engineering
-- Pandas
-
----
-
-## MLOps
-
-- Docker
-- MLflow
-- DVC
-- GitHub Actions
-- CI/CD
-- Redis
-- Prometheus
-- Grafana
-- Pytest
-
----
-
-## Generative AI
-
-- LangChain
-- LangGraph
-- RAG
-- AI Agents
-- Agentic Workflows
-
----
-
-## Cloud
-
-- AWS
-
----
-
-# 🌱 Currently Working On
-
-- 🚀 CommerceAI Platform
-- 🧠 Customer Intelligence Systems
-- 📊 Machine Learning Infrastructure
-- 🤖 AI Agents using LangGraph
-- 🤖 Autonomous Mobile Robot for Smart Retail
-
----
-
-# 🏆 Achievements
-
-- 🎓 B.Tech Robotics & AI @ COEP Technological University
-- 📈 CGPA: **8.82**
-- 📄 Research Paper presented at **RAM 2026**
-- 💼 Data Science Intern @ CODTECH IT Solutions
-- 🎓 Machine Learning Intern @ IIT Kharagpur
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amolk11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amolk11&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolk11&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-kadamas23.rai@coeptech.ac.in
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/amol-kadam-42b9bb3a8/
-
-🐙 **GitHub**
-
-https://github.com/amolk11
+**COEP Technological University** — B.Tech, Robotics and Artificial Intelligence — CGPA 8.82 | 2023 – 2027
+Class XII: 85.5% · Class X: 99.8%
 
 ---
 
 <p align="center">
-
-### Building AI systems that move beyond experimentation into production.
-
+<img src="https://github-readme-stats.vercel.app/api?username=amolk11&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolk11&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
+
+<p align="center"><i>Open to ML Engineer, AI Engineer, and Backend (Python) roles — let's connect.</i></p>
