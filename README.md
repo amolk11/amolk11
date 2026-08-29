@@ -5,7 +5,7 @@ AI Engineer | Machine Learning | Data Engineering | MLOps | Generative AI
 </h3>
 
 <p align="center">
-Building production-ready AI systems—from data engineering and machine learning to scalable APIs, MLOps, and intelligent applications.
+Building production-ready AI systems from data engineering and machine learning to scalable APIs, MLOps, and intelligent applications.
 </p>
 
 <p align="center">
