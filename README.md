@@ -96,7 +96,7 @@ Researching    → Intelligent autonomous systems
 ## 💭 Philosophy
 
 > Build things that are useful.
-> Learn things that make you better.
+> Learn things that make me better.
 > Turn ideas into systems.
 
 ---
