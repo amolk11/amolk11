@@ -58,7 +58,7 @@ I love building data-driven products and intelligent systems that solve real-wor
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,git,githubactions,linux,mongodb,opencv&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,git,githubactions,linux,opencv&perline=8" />
 
 </p>
 
