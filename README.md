@@ -22,13 +22,13 @@ I love building data-driven products and intelligent systems that solve real-wor
 
 🧠 Interested in **Machine Learning, Deep Learning, AI, Generative AI, and Agentic AI**
 
-📊 I enjoy working with **data and turning it into useful products**
+📊 I enjoy building **data-driven products and intelligent systems**
 
-🤖 Exploring **AI agents, RAG, LLM applications, and intelligent systems**
+🤖 Exploring **AI agents, RAG, LLM applications, and autonomous systems**
 
 ⚙️ Interested in taking ideas from **experimentation → engineering → production**
 
-🌱 Always learning, building, and experimenting with new ideas in AI.
+🌱 Always learning, building, and experimenting.
 
 ---
 
@@ -36,105 +36,66 @@ I love building data-driven products and intelligent systems that solve real-wor
 
 <p align="center">
 
-**Artificial Intelligence**
-↓
-**Machine Learning • Deep Learning**
-↓
-**Generative AI • Agentic AI**
-↓
-**Intelligent Applications & AI Systems**
+🧠 Machine Learning & Deep Learning
+🤖 Artificial Intelligence
+✨ Generative AI
+🧩 Agentic AI & AI Agents
+🔎 RAG & LLM Applications
+📊 Data & Data Engineering
+⚙️ Production ML & MLOps
+👁️ Computer Vision
+🤖 Robotics & Autonomous Systems
 
 </p>
-
-### My main interests
-
-* 🧠 Machine Learning & Deep Learning
-* 🤖 Artificial Intelligence
-* ✨ Generative AI
-* 🧩 Agentic AI & AI Agents
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 📊 Data & Data Engineering
-* ⚙️ Production ML & MLOps
-* 👁️ Computer Vision
-* 🤖 Robotics & Autonomous Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Data
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,redis,docker&perline=8" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,git,githubactions,linux,mongodb,opencv&perline=8" />
+
 </p>
 
-**Languages:** Python • SQL • MATLAB
-
-**Data:** Pandas • ETL Pipelines • Data Warehousing • Analytics Engineering
-
----
-
-### 🧠 Machine Learning & AI
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" />
+Python • SQL • MATLAB • Pandas • PyTorch • TensorFlow • Scikit-Learn • Deep Learning • NLP •
+FastAPI • REST APIs • Microservices • SQLAlchemy • PostgreSQL • Redis •
+Docker • AWS • Git • GitHub Actions • CI/CD •
+MLflow • Prometheus • Grafana • Pytest •
+LangChain • LangGraph • RAG • AI Agents • Agentic Workflows •
+Computer Vision • ROS2 • Visual SLAM • Edge AI
 </p>
 
-**Machine Learning:** Scikit-Learn • TensorFlow • PyTorch • Deep Learning • NLP
-
-**Generative AI:** LangChain • LangGraph • RAG • AI Agents • Agentic Workflows
-
 ---
 
-### ⚙️ Backend & APIs
+## 🌱 Currently
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,redis,docker&perline=8" />
+
+**Building** → AI-powered products
+**Learning** → Agentic AI & LLM systems
+**Exploring** → RAG & intelligent agents
+**Improving** → Production ML & MLOps
+**Researching** → Computer Vision & Autonomous Systems
+
 </p>
-
-**Backend:** FastAPI • REST APIs • Microservices • SQLAlchemy
-
-**Databases:** PostgreSQL • Redis
-
----
-
-### ☁️ Cloud, DevOps & MLOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&perline=8" />
-</p>
-
-**Cloud & DevOps:** AWS • Docker • Git • GitHub Actions • CI/CD
-
-**MLOps & Observability:** MLflow • Prometheus • Grafana • Pytest
-
----
-
-### 🤖 Robotics & Computer Vision
-
-**Robotics:** ROS2 • Computer Vision • Visual SLAM • Edge AI
-
-**Autonomous Systems:** Human Detection • Autonomous Navigation • Socially-Aware Robotics
-
----
-
-## 🌱 Currently Exploring
-
-```text
-Building      → AI-powered products
-Learning      → Agentic AI & LLM systems
-Exploring     → RAG & intelligent agents
-Improving     → Production ML & MLOps
-Researching   → Computer Vision & Autonomous Systems
-```
 
 ---
 
 ## 💭 Philosophy
 
-> Build things that are useful.
-> Learn things that make me better.
-> Turn ideas into systems.
+<p align="center">
+
+> **Build things that are useful.**
+> **Learn things that make me better.**
+> **Turn ideas into systems.**
+
+</p>
 
 ---
 
